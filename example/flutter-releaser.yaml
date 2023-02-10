@@ -1,0 +1,8 @@
+platforms: 
+  macos: 
+    enabled: true
+  web: 
+    enabled: true
+  android: 
+    enabled: true
+
