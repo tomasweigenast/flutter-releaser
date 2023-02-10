@@ -16,7 +16,7 @@ github.com/tomasweigenast/flutter-releaser
 
 Commands:
   - init (options)   Initializes the current directory as a Flutter project
-  - build            Builds the current project
+  - build            Builds the current proj9ect
 
 """;
 
